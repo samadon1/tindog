@@ -1,0 +1,120 @@
+body {
+  font-family: 'Montserrat';
+}
+
+.navbar {
+  margin-right: 115px;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+}
+
+.nav-item {
+  margin: 5%;
+}
+
+h1 {
+  font-size: 3.5rem;
+  color: white;
+}
+
+h2 {
+  color: #ef8172;
+  padding-top: 20px;
+}
+
+h3{
+  font-size: 2.5rem;
+  line-height: 4rem;
+}
+
+.iphone {
+  height: 40rem;
+  transform: rotate(25deg);
+}
+
+
+#title {
+  background-color: #ff4c68;
+  padding: 1% 13% ;
+  position: relative;
+  z-index: 0;
+}
+
+.btn-title {
+  margin-top: 50px;
+  margin-right: 20px;
+}
+
+.title-row {
+  margin-top: 50px;
+}
+
+.playstore-btn{
+  margin-right: 10px;
+}
+
+#features {
+  background-color: white;
+  position: relative;
+  bottom: 170px;
+  z-index: 0;
+  padding: 11% 11% 0;
+}
+
+.feature-point {
+  text-align: center;
+}
+
+.feature-icons{
+  color: #ef8172 ;
+}
+
+.testimonials-img{
+  border-radius: 100%;
+  height: 100px;
+  margin-right: 10px;
+}
+
+#testimonials {
+  text-align: center;
+  color: white;
+  background-color:  #ef8172;
+}
+
+.carousel-inner{
+  padding: 8%
+}
+
+#press {
+  padding: 0 8%;
+  margin-bottom: 90px
+}
+
+.press-img {
+  height: 40px;
+  text-align: center;
+  margin-right: 40px;
+  margin-bottom: 50px;
+}
+
+.pricing-header{
+  color: black;
+}
+
+#pricing{
+  padding: 0 10% 5%;
+}
+
+#download-section{
+  padding: 10% 5%;
+  text-align: center;
+  background-color: #ef8172;
+}
+
+#footer{
+  text-align: center;
+  padding: 10% 10% 5%;
+}
